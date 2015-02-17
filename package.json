@@ -1,0 +1,22 @@
+{
+  "name": "gcr-test",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/evanlucas/gcr-test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Evan Lucas <evanlucas@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanlucas/gcr-test/issues"
+  },
+  "homepage": "https://github.com/evanlucas/gcr-test"
+}
